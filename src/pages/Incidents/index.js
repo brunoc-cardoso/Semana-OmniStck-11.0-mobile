@@ -4,7 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import { Feather } from '@expo/vector-icons';
 
 import logoImg from '../../assets/logo.png';
-import styles from './style';
+import styles from './styles';
 
 export default function Incidents() {
   const navigation = useNavigation();
